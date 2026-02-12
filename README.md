@@ -20,7 +20,6 @@
 <!-- CORE TECHNOLOGY HEADING -->
 <h2 align="center" style="color:white;">🚀 Core Technologies</h2>
 
-<br>
 
 <!-- MULTI-LINE ANIMATED TECHNOLOGIES -->
 <p align="center">
