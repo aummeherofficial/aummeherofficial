@@ -2,18 +2,10 @@
 <tr>
 <td width="60%">
 
-# Hi, I'm Aum 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+Developer;Data+Analytics+Engineer;SQLite+%7C+Pandas+%7C+NumPy;Building+Real-World+Systems" />
+</p>
 
-Python Developer | Data Analytics Enthusiast  
-
-- 🍎 Applelytics – Pricing & Analytics System  
-- 💰 Smart Expense Tracker  
-- 📊 Data Visualization Projects  
-
-### 🛠 Tech Stack
-Python • SQLite • Pandas • NumPy • Matplotlib  
-
-</td>
 
 <td width="40%">
 
