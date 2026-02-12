@@ -2,7 +2,7 @@
 <tr>
 
 <!-- LEFT SIDE -->
-<td width="60%" valign="top">
+<td width="50%" valign="top">
   <br>
 
 <!-- NAME -->
@@ -23,7 +23,7 @@
 </td>
 
 <!-- RIGHT SIDE -->
-<td width="40%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <img src="data.gif" width="250"/>
 
