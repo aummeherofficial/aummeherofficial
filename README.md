@@ -17,7 +17,7 @@ Python • SQLite • Pandas • NumPy • Matplotlib
 
 <td width="40%">
 
-<img src="data.gif" width="500"/>
+<img src="data.gif" width="300"/>
 
 </td>
 </tr>
