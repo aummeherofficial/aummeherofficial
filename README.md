@@ -32,7 +32,7 @@
 <!-- RIGHT SIDE -->
 <td width="40%" align="center" valign="top">
 
-<img src="data.gif" width="400"/>
+<img src="data.gif" width="250"/>
 
 </td>
 
