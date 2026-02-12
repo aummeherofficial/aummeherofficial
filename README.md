@@ -14,12 +14,12 @@
 
 ## 🚀 Core Technologies
 
-- • Python  
-- • NumPy  
-- • Pandas  
-- • Matplotlib  
-- • SQL  
-- • SQLite3  
+• Python  
+• NumPy  
+• Pandas  
+• Matplotlib  
+• SQL  
+• SQLite3  
 
 <td width="40%">
 
