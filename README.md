@@ -1,30 +1,40 @@
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
 
-<h1 align="center">
-  Hi, I'm Aum 👋
-</h1>
+<!-- LEFT SIDE -->
+<td width="60%" valign="top">
+  <br>
 
+<!-- NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=300&color=38BDF8&center=true&vCenter=true&width=800&lines=Python+Developer;Data+Analyst;Database+Engineer;Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1&pause=100000&color=6ECF8E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aum+👋" />
+</p>
+
+<!-- ROLES -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=500&color=4BBB6D&center=true&vCenter=true&width=800&lines=Python+Developer;Data+Analyst;Database+Engineer;Data+Scientist" />
 </p>
 
 <br>
 
-## 🚀 Core Technologies
+<!-- CORE TECHNOLOGY HEADING -->
+<h2 align="center" style="color:white;">🚀 Core Technologies</h2>
 
-• Python  
-• NumPy  
-• Pandas  
-• Matplotlib  
-• SQL  
-• SQLite3  
+<br>
 
-<td width="50%">
+<!-- MULTI-LINE ANIMATED TECHNOLOGIES -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=•+Python;•+NumPy;•+Pandas;•+Matplotlib;•+SQL;•+SQLite3" />
+</p>
+
+</td>
+
+<!-- RIGHT SIDE -->
+<td width="40%" align="center" valign="top">
 
 <img src="data.gif" width="400"/>
 
 </td>
+
 </tr>
 </table>
