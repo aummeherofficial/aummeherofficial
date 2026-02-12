@@ -1,22 +1,13 @@
 <table>
 <tr>
 <td width="60%">
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=100&color=0A66C2&center=true&vCenter=true&width=950&height=220&lines=Hi+I'm+Aum;Python+Developer;Data+Analyst;Database+Engineer;Data+Scientist" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=8000&color=38BDF8&center=true&vCenter=true&width=1000&height=260&lines=Hi+I'm+Aum;•+Python+Developer;•+Data+Analyst;•+Database+Engineer;•+Data+Scientist;•+Python;•+NumPy;•+Pandas;•+Matplotlib;•+SQL;•+SQLite3" 
   />
 </p>
 
-<br>
-
-<br>
-⚙️ Technologies
-- Python  <br>
-- NumPy   <br>
-- Pandas   <br>
-- Matplotlib   <br>
-- SQL   <br>
-- SQLite3   <br>
 
 <td width="40%">
 
