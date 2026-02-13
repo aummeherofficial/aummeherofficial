@@ -7,17 +7,17 @@
 
 <!-- NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000000&color=6ECF8E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aum+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000000&color=E62727&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aum+👋" />
 </p>
 
 <!-- ROLES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3500&pause=2000&color=4BBB6D&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Database+Engineer;Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3500&pause=2000&color=F3F2EC&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Database+Engineer;Data+Scientist" />
 </p>
 <br>
 <!-- MULTI-LINE ANIMATED TECHNOLOGIES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=•+Python;•+NumPy;•+Pandas;•+Matplotlib;•+SQL;•+SQLite3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=1E93AB&center=true&vCenter=true&width=600&lines=•+Python;•+NumPy;•+Pandas;•+Matplotlib;•+SQL;•+SQLite3" />
 </p>
 
 </td>
