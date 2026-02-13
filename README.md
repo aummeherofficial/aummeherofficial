@@ -17,7 +17,7 @@
 <br>
 <!-- MULTI-LINE ANIMATED TECHNOLOGIES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=B4E50D&center=true&vCenter=true&width=600&lines=•+Python;•+NumPy;•+Pandas;•+Matplotlib;•+SQL;•+SQLite3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=78C841&center=true&vCenter=true&width=600&lines=•+Python;•+NumPy;•+Pandas;•+Matplotlib;•+SQL;•+SQLite3" />
 </p>
 
 </td>
