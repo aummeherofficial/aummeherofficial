@@ -7,7 +7,7 @@
 
 <!-- NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000000&color=E62727&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aum+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000000&color=F0FFC3&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aum+👋" />
 </p>
 
 <!-- ROLES -->
@@ -17,7 +17,7 @@
 <br>
 <!-- MULTI-LINE ANIMATED TECHNOLOGIES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=1E93AB&center=true&vCenter=true&width=600&lines=•+Python;•+NumPy;•+Pandas;•+Matplotlib;•+SQL;•+SQLite3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00B7B5&center=true&vCenter=true&width=600&lines=•+Python;•+NumPy;•+Pandas;•+Matplotlib;•+SQL;•+SQLite3" />
 </p>
 
 </td>
