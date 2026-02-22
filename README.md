@@ -17,7 +17,7 @@
 
 <!-- NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000000&color=EF9651&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aum+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000000&color=EF9651&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aum+👋" />
 </p>
 
 <!-- ROLES -->
